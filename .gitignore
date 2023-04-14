@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+venv
+__pycache__
+cudnn_windows
+.vscode
+*.egg-info
+build
+wd14_tagger_model
+.DS_Store
+locon
+gui-user.bat
+gui-user.ps1
+
+/extra
+/.idea
